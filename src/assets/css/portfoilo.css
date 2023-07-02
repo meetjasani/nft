@@ -1,0 +1,127 @@
+.currency-name img {
+    width: 16px;
+    height: 16px;
+}
+
+.portfoilo-select {
+    margin-right: 81px;
+}
+
+.currency-select {
+    background: transparent;
+    border: 0px;
+    color: #23262F;
+    font-size: 12px;
+}
+
+.profile-wallet img {
+    width: 14px;
+    height: 14px;
+}
+
+.profile-wallet p {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.portfoilo-three-btn {
+    width: 316px;
+    height: 46px;
+    border-radius: 38px;
+    border: 1px solid rgba(121, 121, 121, 0.2);
+    overflow: hidden;
+    background: white;
+    font-family: 'Outfit';
+}
+
+.portfoilo-three-btn button {
+    border: 0px;
+    width: 100%;
+    background: transparent;
+    border-right: 1px solid #EBF0F0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #5D5D5B;
+}
+
+.portfoilo-three-btn .active {
+    background: #645CBB;
+    /* font-size: 18px; */
+    font-weight: 500;
+    color: #FFF;
+
+}
+
+
+/* .btn-deactive{
+    border: 0px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-lines{
+    border-right: 1px solid #EBF0F0;
+} */
+
+
+.selected-different {
+    padding-top: 24px;
+    padding-bottom: 20px;
+}
+
+.refresh p {
+    font-weight: 600;
+}
+
+.portfoilo-avg-btn {
+    width: 159px;
+    height: 36px;
+    border-radius: 38px;
+    overflow: hidden;
+    border: 1px solid rgba(121, 121, 121, 0.2);
+    background: white;
+}
+
+.portfoilo-avg-btn button {
+    border: 0px;
+    width: 100%;
+    background: transparent;
+    border-right: 1px solid #EBF0F0;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.project-name {
+    font-size: 12px;
+    font-weight: 600;
+    color: #26272B;
+    padding-left: 19px;
+}
+
+.day-gain {
+    font-size: 12px;
+    font-weight: 700;
+    color: #26272B;
+}
+
+.all-fonts {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.add-watchlist {
+    font-size: 12px;
+    font-weight: 600;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), #4D53E3;
+    border-radius: 44px;
+    width: 121px;
+    height: 34px;
+    text-align: center;
+    padding: 9px;
+    border: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(77, 83, 227, 0.8);
+    font-size: 12px;
+    font-weight: 600;
+}

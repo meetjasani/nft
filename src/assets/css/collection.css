@@ -1,0 +1,377 @@
+.main-box {
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    border-radius: 16px;
+    height: 84px;
+    max-width: 845px;
+    width: 100%;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    margin: 0px auto;
+    margin-bottom: 22px;
+}
+
+.neft-price {
+    border-right: 1px solid rgba(207, 219, 213, 0.6);
+    max-width: 140px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.neft-price p {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 3px;
+}
+
+.neft-price span {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.status-filter {
+    max-width: 302px;
+    width: 100%;
+    /* height: 170px; */
+    border-radius: 14px;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    padding: 19px 28px 24px 24.5px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.sidebar-filter {
+    max-width: 302px;
+    width: 100%;
+    height: 60px;
+    border-radius: 14px;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    padding: 19px 28px 24px 24.5px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+
+
+.collection-top-nav .active {
+    background-color: #d9fced;
+    border: 0px;
+    border-radius: 23px;
+    height: 36px;
+    color: #379674;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+/* over */
+
+
+.collection-main-img {
+    max-width: 1280px;
+    width: 100%;
+    height: 322px;
+    overflow: hidden;
+    border-radius: 16px;
+    display: block;
+    margin: 0px auto;
+}
+
+.collection-main-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+
+
+/* .collection-main-img{
+    max-width: 100%;
+    width: 100%;
+    height: 322px;
+    overflow: hidden;
+    border-radius: 16px;
+    margin: 0px auto;
+    overflow: hidden;
+  } */
+.collection-main-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.collection-main-img .top-10 {
+    top: 10%;
+}
+
+.collection-main-img .btn-wrap button:nth-child(1) {
+    width: 174px;
+    height: 46px;
+    font-size: 14px;
+    font-weight: 700;
+    border: 1px solid #CFDBD599;
+    border-radius: 23px;
+    background: #FFF;
+}
+
+.avatar-img {
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    overflow: hidden;
+    border-radius: 40px;
+    top: 85%;
+    left: 47%;
+}
+
+.avatar-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.collection-main-img .btn-wrap button:nth-child(2),
+.collection-main-img .btn-wrap button:nth-child(3) {
+    width: 46px;
+    height: 46px;
+    font-size: 14px;
+    font-weight: 700;
+    border: 1px solid #CFDBD599;
+    border-radius: 23px;
+    background: #FFF;
+}
+
+.collection-top-nav button:nth-child(1) {
+    width: 86px;
+}
+
+.collection-top-nav button:nth-child(2) {
+    width: 78px;
+}
+
+.collection-top-nav button:nth-child(3) {
+    width: 106px
+}
+
+.collection-top-nav button:nth-child(4) {
+    width: 120px;
+}
+
+.collection-top-nav button:nth-child(5) {
+    width: 138px;
+}
+
+.collection-top-nav button:nth-child(6) {
+    width: 84px;
+}
+
+.collection-top-nav button:nth-child(7) {
+    width: 130px;
+}
+
+.sort-btn {
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    height: 36px;
+    width: 96px;
+    background: white;
+    font-size: 12px;
+}
+
+.status-filter .btn-wrap button:nth-child(1) {
+    background: #bface2b6;
+    border-radius: 18px;
+    width: 98px;
+    height: 36px;
+    color: #645CBB;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.status-filter .btn-wrap button:nth-child(2) {
+    background: #FFF;
+    border-radius: 18px;
+    width: 120px;
+    height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    border: 1px solid #CFDBD599;
+}
+
+.status-filter .btn-wrap button:nth-child(3) {
+    background: #FFF;
+    border-radius: 18px;
+    width: 124px;
+    height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    border: 1px solid #CFDBD599;
+}
+
+.status-filter .btn-wrap button:nth-child(4) {
+    background: #FFF;
+    border-radius: 18px;
+    width: 74px;
+    height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    border: 1px solid #CFDBD599;
+}
+
+.checkbox-wrap label {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 11px;
+    margin-left: 7px;
+
+}
+
+.checkbox-wrap .active {
+    background: #645CBB;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    padding: 0px 9px;
+    color: #FFFFFF;
+}
+
+.checkbox-wrap span {
+    background: #FFF;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    padding: 0px 9px;
+    border: 1px solid #CFDBD599;
+}
+
+.cards-filter {
+    max-width: 302.78px;
+    width: 100%;
+    display: block;
+    height: 334.02px;
+    border-radius: 18.02px;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    background: #FFFFFF;
+    padding: 7.21px;
+    position: relative;
+    font-family: 'Outfit';
+    margin: 0px auto;
+    margin-bottom: 24.03px;
+    box-shadow: 0px 4.8060455322265625px 120.15113830566406px 0px #CACACA33;
+}
+
+.cards-filter .img-wrap {
+    height: 168.21px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 24.03px;
+    border-radius: 14.42px;
+}
+
+.cards-filter .img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.timers {
+    font-size: 14.42px;
+    border-radius: 25.23px;
+    background: rgba(19, 12, 26, 0.15);
+    backdrop-filter: blur(6.00756px);
+    color: #FFFFFF;
+    width: 90.11px;
+    height: 33.42px;
+    padding: 7.21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart-icon {
+    border-radius: 25.23px;
+    background: rgba(19, 12, 26, 0.15);
+    backdrop-filter: blur(6.00756px);
+    width: 36.05px;
+    height: 36.05px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 9.61px;
+
+}
+
+.heart-icon svg {
+    font-size: 18px;
+}
+
+.card-name {
+    font-size: 19.22px;
+    color: #010101;
+    font-weight: 600;
+}
+
+.card-by-name {
+    font-weight: 500;
+    font-size: 14.4181px;
+    color: #93989A;
+    margin-bottom: 22.08px;
+}
+
+.current-bid {
+    font-weight: 400;
+    font-size: 12px;
+    color: #93989A;
+
+}
+
+.top-18 {
+    top: 18px
+}
+
+.current-bid-wrap p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #93989A;
+}
+
+.current-bid-wrap h5 {
+    font-size: 16.82px;
+    color: #010101;
+    font-weight: 500;
+}
+
+.current-bid-wrap button {
+    background: #645CBB;
+    width: 105.73px;
+    height: 38.45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9.61px;
+    font-size: 14.42px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.outline-btn {
+    background: none;
+    border: 1px solid rgb(3, 219, 128);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    width: 106px;
+    padding: 8px;
+    margin: 0px auto 140px;
+    color: rgb(3, 219, 128);
+    display: block;
+}

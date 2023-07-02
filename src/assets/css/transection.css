@@ -1,0 +1,61 @@
+.transaction-section{
+  margin-top: 28px;
+  margin-bottom: 48px;
+}
+
+.transaction-section p{
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.transaction-btn-two button{
+    border-radius: 23px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 700;
+    background: #FFF;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+    height: 46px;
+    padding: 12px;
+}
+
+.add-transaction{
+    width: 174px;
+}
+.more-transaction{
+    width: 99px;
+}
+
+/* table header */
+.transaction-main-table{
+    margin-top: 20px;
+}
+.select-all{
+    padding: 0px 10px;
+}
+.select-all label{
+   /* margin-left: 15px; */
+}
+.btn-crud button{
+    border: 2px solid #DADFE3;
+    border-radius: 34px;
+    width: 44px;
+    height: 44px;
+}
+.trans-sort-filter p{
+    margin-right: 9px;
+}
+.write-icon{
+    /* font-size: 36px; */
+    color: #D5D9DC;
+}
+.write-icon svg{
+    font-size: 36px;
+}
+.drag-drop{
+    border: 1.5px solid #4D53E3;
+    border-radius: 34px;
+    background: #E3EFFD;
+    width: 30px;
+    height: 30px;
+}

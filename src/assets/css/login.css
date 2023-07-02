@@ -1,0 +1,236 @@
+.login-section {
+    min-height: 83vh;
+    padding-top: 20px;
+
+}
+
+.login-title h4 {
+    font-size: 44px;
+    margin-bottom: 60px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.login-title h5 {
+    font-size: 44px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.login-title p {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.login-title span {
+    color: red;
+}
+
+.input-div-wrap {
+    margin-top: 32px;
+    max-width: 770px;
+    width: 100%;
+}
+
+.input-div-wrap label {
+    font-size: 18px;
+    margin-bottom: 6px;
+    font-weight: 500;
+}
+
+.input-div-wrap input {
+    height: 50px;
+    border-radius: 12px;
+    width: 100%;
+    background: #EBF0F0;
+    padding: 23px;
+    margin-bottom: 4px;
+}
+
+.input-div-wrap .validationfield {
+    color: red;
+    font-size: 17px;
+    margin-bottom: 16px;
+}
+
+.forgot {
+    font-size: 16px;
+    color: #0088ce;
+    float: right;
+}
+
+.input-div-wrap button {
+    background: #645CBB;
+    border-radius: 23px;
+    width: 150px;
+    height: 46px;
+    font-size: 14px;
+    margin-top: 32px;
+    font-weight: 700;
+}
+
+.button-login-reg {
+    width: 100%;
+}
+
+.input-div-wrap .google-login {
+    width: 38%;
+}
+
+.auth-btn-group:nth-child(1) {
+    border: none;
+    width: 27%;
+    gap: 20px;
+}
+
+.auth-btn-group:nth-child(1):hover {
+    background-color: #645CBB;
+}
+
+.auth-btn-group:nth-child(2) {
+    display: none;
+}
+
+.collection-address {
+    margin-top: 32px;
+}
+
+.collection-address label {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.collection-address div {
+    margin-top: 8px;
+    max-width: 770px;
+    width: 100%;
+}
+
+.collection-address input {
+    height: 50px;
+    border-radius: 12px;
+    width: 100%;
+    background: #EBF0F0;
+}
+
+.collection-address button {
+    background: #645CBB;
+    border-radius: 23px;
+    width: 150px;
+    height: 46px;
+    font-size: 14px;
+    margin-top: 32px;
+    font-weight: 700;
+}
+
+/* forgot css start */
+.forgot-section {
+    min-height: 83vh;
+    padding-top: 20px;
+
+}
+
+.forgot-title h4 {
+    font-size: 44px;
+    margin-bottom: 60px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.forgot-title h5 {
+    font-size: 44px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.forgot-title p {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.forgot-title span {
+    color: red;
+}
+
+/* forgot css end */
+
+/* Register css start */
+
+.register-section {
+    min-height: 83vh;
+    padding-top: 20px;
+
+}
+
+.register-title h4 {
+    font-size: 44px;
+    margin-bottom: 60px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.registertitle h5 {
+    font-size: 44px;
+    width: 100%;
+    height: 100%;
+    font-weight: 600;
+}
+
+.register-title p {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.register-title span {
+    color: red;
+}
+
+.input-div-wrap-register {
+    margin-top: 32px;
+    max-width: 770px;
+    width: 100%;
+    text-align: start;
+}
+
+.input-div-wrap-register label {
+    font-size: 18px;
+    margin-bottom: 6px;
+    font-weight: 500;
+}
+
+.input-div-wrap-register input {
+    height: 50px;
+    border-radius: 12px;
+    width: 100%;
+    background: #EBF0F0;
+    padding: 23px;
+    margin-bottom: 4px;
+}
+
+.input-div-wrap-register .validationfield {
+    color: red;
+    font-size: 17px;
+    margin-bottom: 16px;
+}
+
+.input-div-wrap-register button {
+    background: #645CBB;
+    border-radius: 23px;
+    width: 150px;
+    height: 46px;
+    font-size: 14px;
+    margin-top: 32px;
+    font-weight: 700;
+}
+.grecaptcha-badge{
+    position: static !important;
+}
+/* register css end */

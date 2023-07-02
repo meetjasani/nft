@@ -1,0 +1,116 @@
+.main-title .banner-text {
+    /* style={{ fontSize: '16px', fontWeight: 400, lineHeight: '24px', fontFamily: 'Inter', textAlign: 'center', marginBottom: "38px" }} */
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Inter';
+    text-align: center;
+    margin-bottom: 38px;
+}
+
+.banner-btn-wrap button:nth-child(1) {
+    max-width: 188px;
+    width: 100%;
+}
+
+.banner-btn-wrap button:nth-child(2) {
+    max-width: 114px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 700;
+    vertical-align: middle;
+}
+
+.trending-btn-wrap button:nth-child(1) {
+    width: 120px;
+    font-size: 12px;
+    height: 36px;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+}
+
+.trending-btn-wrap button:nth-child(2) {
+    width: 96px;
+    font-size: 12px;
+    height: 36px;
+    border: 1px solid rgba(207, 219, 213, 0.6);
+}
+
+.collection-card {
+    max-width: 302px;
+    width: 100%;
+    height: 403px;
+    margin: 0px auto;
+    position: relative;
+    text-decoration: none;
+    border-radius: 10px;
+    background: #FFF;
+}
+
+.collection-card .card-img-top {
+    width: 100%;
+    height: 302px !important;
+    object-fit: fill;
+    border-radius: 8px;
+}
+
+.collection-card .avatar {
+    height: 48px;
+    width: 48px;
+    border-radius: 30px;
+    border: 2px solid #fff;
+    position: absolute;
+    bottom: 17%;
+    left: 43%;
+    overflow: hidden;
+}
+
+.collection-card .avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.collection-card .card-title {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.collection-card .card-text {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.load-more-btn {
+    background: #d9fced;
+    color: #379674;
+    border-radius: 23px;
+    max-width: 241px;
+    width: 100%;
+    height: 46px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 45px !important;
+    margin: 0px auto;
+    margin-bottom: 91px !important;
+}
+
+.top-btn-wrap button {
+    width: 94px;
+    height: 36px;
+    border-radius: 18px;
+    border: 1px solid #CFDBD599;
+    font-size: 12px;
+    font-weight: 700;
+    background: #FFF;
+}
+
+.top-btn-wrap .active {
+    width: 94px;
+    height: 36px;
+    border-radius: 18px;
+    background: #bface2b6;
+    color: #645CBB;
+    font-size: 12px;
+    font-weight: 700;
+    border: 0px
+}
